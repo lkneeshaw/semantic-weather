@@ -29023,3 +29023,8 @@ body {
 
 h1 {
   color: white; }
+
+.column {
+  background: #222;
+  margin: 10px;
+  padding: 10px; }
